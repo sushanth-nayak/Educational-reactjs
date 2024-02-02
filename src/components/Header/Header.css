@@ -1,0 +1,42 @@
+
+.nav-right {
+    margin-left: 15px;
+}
+
+.text-dark{
+    font-family:'Cabin', sans-serif; 
+    letter-spacing: 1px;
+    font-size: 1.1rem;
+}
+
+.text-dark:hover {
+    color: #FDF0D5!important;
+    font-family:'Cabin', sans-serif ;
+    text-shadow: 2px 2px 5px #ff5d5d;
+}
+
+
+.bg-light{
+    background:linear-gradient(to bottom , #ff525ee4,#ffffff)!important;
+    text-align: center;
+
+}
+
+.text-success{
+    filter: hue-rotate(80deg);
+}
+
+
+/* for mobile menu */
+@media screen and (max-width: 991px) {
+    .navs-item, .nav-right {
+        text-align: center !important;
+    }
+  }
+
+  @media screen and (max-width: 991px) {
+ .gap-2{
+  margin:0px 70px !important;
+ }
+
+  }

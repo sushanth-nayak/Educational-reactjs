@@ -1,0 +1,33 @@
+.newsletter {
+    background:linear-gradient(to right,#ffffff, #ff5b66d5 ,#ffffff)!important;;
+    padding: 60px;
+    border-radius: 15px;
+  }
+  
+  .newsletter h2 {
+    color: #003049;
+  }
+  .subscribe input {
+    border: none;
+    outline: none;
+  }
+  
+  .subscribe {
+    padding: 7px 10px;
+    background: #fff;
+    width: 45%;
+    margin: auto;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+
+
+  /* for mobile responsive */
+  @media only screen and (max-width: 991px) {
+    .subscribe {
+        width: 100%;
+    }
+  }

@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Jost:wght@500&display=swap');
+
+/* =========== base style ========= */
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section,
+footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 2rem;
+  line-height: 45px;
+  font-family: 'Cabin', sans-serif;
+  color: #C1121F;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+p {
+  color: #003049;
+  font-size: 1.2rem;
+  line-height: 30px;
+  font-family: 'Jost', sans-serif;
+  font-weight: 400;
+}
+
+button.btn {
+  background: #003049;
+  color: #fff;
+  padding: 7px 25px;
+  border-radius: 50px;
+}
+
+button.btn:hover{
+  background: linear-gradient(to right,#003049,#FDF0D5);
+}
+
+i {
+  color: #C1121F;
+}
