@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Educational-reactjs/static/css/main.3985c69a.css",
+    "main.js": "/Educational-reactjs/static/js/main.f6bf6617.js",
+    "static/js/787.289aedf5.chunk.js": "/Educational-reactjs/static/js/787.289aedf5.chunk.js",
+    "static/media/about-us.png": "/Educational-reactjs/static/media/about-us.c206c75ecffc639738c9.png",
+    "static/media/kids-learning.png": "/Educational-reactjs/static/media/kids-learning.4b241799c8ad5a61518b.png",
+    "static/media/testimonial01.png": "/Educational-reactjs/static/media/testimonial01.600a7a1cbccc5e47298e.png",
+    "static/media/web-design.png": "/Educational-reactjs/static/media/web-design.7f7f813a8ef2d83ef5c5.png",
+    "static/media/ui-ux.png": "/Educational-reactjs/static/media/ui-ux.944a966d36b438280a6f.png",
+    "static/media/graphics-design.png": "/Educational-reactjs/static/media/graphics-design.9104440c7ad75356ba08.png",
+    "static/media/why-choose-us.png": "/Educational-reactjs/static/media/why-choose-us.b7711e8bcff0c73cc7d2.png",
+    "static/media/hero-img1.png": "/Educational-reactjs/static/media/hero-img1.f363cdcc7c86a7d9e65c.png",
+    "static/media/seo.png": "/Educational-reactjs/static/media/seo.b323da636359c745b6dc.png",
+    "static/media/web-development.png": "/Educational-reactjs/static/media/web-development.91ce53388df7bc88002c.png",
+    "index.html": "/Educational-reactjs/index.html",
+    "main.3985c69a.css.map": "/Educational-reactjs/static/css/main.3985c69a.css.map",
+    "main.f6bf6617.js.map": "/Educational-reactjs/static/js/main.f6bf6617.js.map",
+    "787.289aedf5.chunk.js.map": "/Educational-reactjs/static/js/787.289aedf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3985c69a.css",
+    "static/js/main.f6bf6617.js"
+  ]
+}
